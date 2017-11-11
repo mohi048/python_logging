@@ -15,7 +15,7 @@ class Weapon:
 
 @recording
 def Build_Weapon(name="Dummy",price="Free"):
-	print "Building the weapon"
+	print("Building the weapon")
 	return price
 
 
